@@ -1,0 +1,2 @@
+# SWJTU_MIRRORS_WORKER
+西南交大镜像站Worker配置文件
